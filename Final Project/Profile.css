@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(39, 39, 67);
+}
+.header{
+    width: 100%;
+    height: auto;
+    background-color: #37363d;
+    display: flex;
+}
+.logo{
+    display: flex;
+    width: 6%;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+}
+.home{
+    display: flex;
+    width: 6%;
+    color: white;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+}
+.aboutus{
+    display: flex;
+    width: 6%;
+    color: white;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+}
+.profile{
+    display: flex;
+    width: 20%;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+}
+.profilephoto{
+    display: flex;
+    width: 100%;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+}
+.profilephoto2{
+    display: block;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.username{
+    display: block;
+    object-fit: contain;
+    margin: auto;
+    background-color: rgb(174, 171, 171);
+    color: black;
+    width: 10%;
+    height: auto;
+    text-align: center;
+    border-radius: 40%;
+}
+.email{
+    display: block;
+    object-fit: contain;
+    margin: auto;
+    background-color: rgb(174, 171, 171);
+    color: black;
+    width: 10%;
+    height: auto;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 40%;
+}
+.password{
+    display: block;
+    object-fit: contain;
+    margin: auto;
+    background-color: rgb(174, 171, 171);
+    color: black;
+    width: 10%;
+    height: auto;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 40%;
+}
+.continue{
+    display: block;
+    object-fit: contain;
+    margin: auto;
+    background-color: rgb(14, 20, 87);
+    color: rgb(255, 255, 255);
+    width: 20%;
+    height: auto;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+    border-radius: 40%;
+}

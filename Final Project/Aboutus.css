@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(39, 39, 67);
+}
+.header{
+    width: 100%;
+    height: auto;
+    background-color: #37363d;
+    display: flex;
+}
+.logo{
+    display: flex;
+    width: 6%;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+}
+.home{ 
+    display: flex;
+    width: 6%;
+    color: white;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+}
+.aboutus{
+    display: flex;
+    width: 6%;
+    color: white;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+}
+.profile{
+    display: flex;
+    width: 20%;
+    object-fit: contain;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+}
+.aboutuspageimg{
+    display: flex;
+    justify-content: center;
+}
+.aboutuspage{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.aboutusimg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    height: auto;
+}
